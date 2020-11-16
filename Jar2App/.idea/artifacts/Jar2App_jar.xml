@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Jar2App:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Jar2App_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Jar2App.jar">
+        <element id="module-output" name="Jar2App" />
+      </element>
+    </root>
+  </artifact>
+</component>
